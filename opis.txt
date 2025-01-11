@@ -2,6 +2,7 @@ Miejsce w którym klienci mogą zakupić papiery wartościowe, oraz umówić si�
 spotkania z doradcami z różnych dziedzin. Z klientem w spokaniu może uczestniczyć tylko
 jeden doradca jednocześnie.
 
-Organizowane są również webinary ze znaymi specjalistami, bez limitów miejsc.
+Organizowane są również webinary ze znanymi specjalistami, bez limitów miejsc. 
+Webinar prowadzi maksymalnie jeden specjalista.
 
 Biuro obsługuje tylko klientów z Polski, więc kwoty podane są w PLN.
